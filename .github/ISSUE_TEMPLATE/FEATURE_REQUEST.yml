@@ -3,14 +3,18 @@ description: Submit a feature request for Stately or XState
 title: "[Feature request]: "
 labels: ["open"]
 body:
-  - type: markdown
+  - type: textarea
+    id: details
     attributes:
-      value: |
-        Thank you for sharing a feature request, please add some more details below.
+      label: Details
+      description: Describe the feature and how it would help you or your team.
+    validations:
+      required: true
   - type: dropdown
     id: category
     attributes:
-      label: Which category is most relevant to your feature request?
+      label: Category
+      description: Choose a relevant category for your feature request.
       multiple: false
       options:
         - Editor
@@ -20,11 +24,3 @@ body:
         - Devtools
         - Examples
         - Community
-  - type: textarea
-    id: details
-    attributes:
-      label: Details
-      description: Describe the feature and how it would help you or your team.
-      placeholder: Give us more details
-    validations:
-      required: true
