@@ -6,6 +6,7 @@ We recommend you check out our [current feature requests to upvote your favorite
 
 > [!TIP]
 > **Upvote and subscribe:** You can upvote an existing feature request using the 👍 thumbs up emoji.
+>
 > Subscribe in the **Notifications** section of a feature request to get updates on its status.
 
 ## Feature requests by status
