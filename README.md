@@ -2,7 +2,7 @@
 
 👋 Welcome to the Stately feature request board!
 
-We recommend you check out our [current feature requests to upvote your favorites](https://github.com/statelyai/feedback/issues?q=is%3Aopen+label%3Aopen+label%3Aunder+review+label%3Aplanned). Or you can **[share a new feature request](https://github.com/statelyai/feedback/issues/new)**.
+We recommend you check out our [current feature requests to upvote your favorites](https://github.com/statelyai/feedback/issues?q=is%3Aopen+label%3Aopen+label%3Aunder+review+label%3Aplanned). Or you can **[share a new feature request](https://github.com/statelyai/feedback/issues/new/choose)**.
 
 ## Feature requests by status
 
