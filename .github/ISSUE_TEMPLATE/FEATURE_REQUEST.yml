@@ -1,6 +1,6 @@
 name: Feature request
 description: Submit a feature request for Stately or XState
-title: "[Feature request]: "
+title: " "
 labels: ["open"]
 body:
   - type: textarea
