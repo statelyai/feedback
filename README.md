@@ -15,7 +15,7 @@ We recommend you check out our [current feature requests to upvote your favorite
 - ⚪️ [Features under review](https://github.com/statelyai/feedback/labels/under%20review)
 - 🔵 [Planned features](https://github.com/statelyai/feedback/labels/planned)
 - 🟣 [Features in progress](https://github.com/statelyai/feedback/labels/in%20progress)
-- ✅ [Completed features](https://github.com/statelyai/feedback/labels/complete)
+- ✅ [Completed features](https://github.com/statelyai/feedback/issues?q=is%3Aissue+is%3Aclosed+label%3Acomplete)
 
 ## Get help and join discussions
 
