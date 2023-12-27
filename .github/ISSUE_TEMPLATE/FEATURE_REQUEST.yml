@@ -1,0 +1,48 @@
+name: Feature request
+description: Submit a feature request for Stately or XState
+title: "[Feature request]: "
+labels: ["open"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a feature request!
+  - type: dropdown
+    id: category
+    attributes:
+      label: Which category is most relevant to your feature request?
+      multiple: false
+      options:
+        - Editor
+        - XState
+        - Documentation
+        - Workflows
+        - Devtools
+        - Examples
+        - Community
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe the feature you would like to see added
+      placeholder: Give us more details
+      value: "details"
+    validations:
+      required: true
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Use case
+      description: Tell us more about how you or your team would use this feature
+      placeholder: How would this feature help you and your team?
+      value: "usecase"
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of conduct
+      description: By submitting this feature request, you agree to follow our [code of conduct](https://stately.ai/code-of-conduct)
+      options:
+        - label: I agree to follow Stately’s code of conduct
+          required: true
