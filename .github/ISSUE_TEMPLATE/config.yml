@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Stately Discord
+    url: https://discord.stately.ai
+    about: Discuss all things Stately and XState
+  - name: Stately and XState Help channel on Discord
+    url: https://discord.com/channels/795785288994652170/1021738689434501181
+    about: Get help with Stately and XState
