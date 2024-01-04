@@ -1,6 +1,6 @@
 # Stately feedback
 
-👋 Welcome to the Stately feature request board! [View existing features requests in the **Issues** tab](https://github.com/statelyai/feedback/issues).
+👋 Welcome to the Stately feature request board! [View existing features requests in the **Projects** tab](https://github.com/orgs/statelyai/projects/2/views/1).
 
 ## Upvote
 
@@ -17,6 +17,8 @@ Check out our [current feature requests to upvote your favorites](https://github
 💡 Got an idea that hasn’t been shared yet? **[Request a new feature](https://github.com/statelyai/feedback/issues/new/choose)**.
 
 ## Feature requests by status
+
+- ✨ [View feature requests by status on the Projects board](https://github.com/orgs/statelyai/projects/2/views/1)
 
 - 💡 [Open feature requests](https://github.com/statelyai/feedback/labels/open)
 - ⚪️ [Features under review](https://github.com/statelyai/feedback/labels/under%20review)
