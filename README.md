@@ -20,11 +20,11 @@ Check out our [current feature requests to upvote your favorites](https://github
 
 - ✨ [View feature requests by status on the Projects board](https://github.com/orgs/statelyai/projects/2/views/1)
 
-- 💡 [Open feature requests](https://github.com/statelyai/feedback/labels/open)
-- ⚪️ [Features under review](https://github.com/statelyai/feedback/labels/under%20review)
-- 🔵 [Planned features](https://github.com/statelyai/feedback/labels/planned)
-- 🟣 [Features in progress](https://github.com/statelyai/feedback/labels/in%20progress)
-- ✅ [Completed features](https://github.com/statelyai/feedback/issues?q=is%3Aissue+is%3Aclosed+label%3Acomplete)
+- 💡 [Open feature requests](https://github.com/statelyai/feedback/labels/state%20-%20open)
+- ⚪️ [Features under review](https://github.com/statelyai/feedback/labels/state%20-%20under%20review)
+- 🔵 [Planned features](https://github.com/statelyai/feedback/labels/state%20-%20planned)
+- 🟣 [Features in progress](https://github.com/statelyai/feedback/labels/state%20-%20in%20progress)
+- ✅ [Completed features](https://github.com/statelyai/feedback/issues?q=is%3Aissue+is%3Aclosed+label%3Astate%20-%20complete)
 
 ## Get help and join discussions
 
